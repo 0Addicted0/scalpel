@@ -1,0 +1,13 @@
+﻿  scalpeTest.cpp
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(71,58): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(138,98): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(161,10): warning C4101: “lpcbData”: 未引用的局部变量
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(366,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(370,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(387,55): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  1 of 85 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  scalpelTest.vcxproj -> E:\softwareSecurity\scalpel\src\scalpelTest\x64\Release\scalpelTest.exe

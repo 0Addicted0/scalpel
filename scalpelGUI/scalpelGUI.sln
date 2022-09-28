@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scalpelGUI", "scalpelGUI.vcxproj", "{64BA65FD-CBE2-33AD-91C7-859F28499E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BA65FD-CBE2-33AD-91C7-859F28499E06}.Debug|x64.ActiveCfg = Debug|x64
+		{64BA65FD-CBE2-33AD-91C7-859F28499E06}.Debug|x64.Build.0 = Debug|x64
+		{64BA65FD-CBE2-33AD-91C7-859F28499E06}.Release|x64.ActiveCfg = Release|x64
+		{64BA65FD-CBE2-33AD-91C7-859F28499E06}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BF9B55-1BDE-4DB3-A53D-251AE0248450}
+	EndGlobalSection
+EndGlobal

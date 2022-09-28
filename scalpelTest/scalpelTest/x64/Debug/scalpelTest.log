@@ -1,0 +1,12 @@
+﻿  scalpeTest.cpp
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(71,58): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(85,13): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(85,13): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "DWORD" 的参数 1 冲突
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(85,45): warning C4474: printf: 格式字符串中传递的参数太多
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(85,45): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(138,98): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(161,10): warning C4101: “lpcbData”: 未引用的局部变量
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(366,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(370,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelTest\scalpelTest\scalpeTest.cpp(387,55): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  scalpelTest.vcxproj -> E:\softwareSecurity\scalpel\src\scalpelTest\x64\Debug\scalpelTest.exe
