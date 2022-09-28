@@ -1,0 +1,122 @@
+﻿  pch.cpp
+  dllmain.cpp
+E:\softwareSecurity\scalpel\src\scalpelGUI\scalpelGUI\sharedMem.h(89,111): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(195,41): warning C4311: “类型强制转换”: 从“HANDLE”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(195,41): warning C4302: “类型强制转换”: 从“HANDLE”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(206,8): warning C4311: “类型强制转换”: 从“HANDLE”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(206,8): warning C4302: “类型强制转换”: 从“HANDLE”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(208,40): warning C4311: “类型强制转换”: 从“HANDLE”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(208,40): warning C4302: “类型强制转换”: 从“HANDLE”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(223,46): warning C4311: “类型强制转换”: 从“HANDLE”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(223,46): warning C4302: “类型强制转换”: 从“HANDLE”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(335,85): warning C4311: “类型强制转换”: 从“HWND”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(335,85): warning C4302: “类型强制转换”: 从“HWND”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(340,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(341,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(366,85): warning C4311: “类型强制转换”: 从“HWND”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(366,85): warning C4302: “类型强制转换”: 从“HWND”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(371,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(372,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(420,88): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(420,88): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(437,88): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(437,88): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(439,80): warning C4244: “=”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(455,88): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(455,88): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(457,86): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(457,86): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(479,119): warning C4311: “类型强制转换”: 从“LPSECURITY_ATTRIBUTES”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(479,119): warning C4302: “类型强制转换”: 从“LPSECURITY_ATTRIBUTES”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(482,103): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(482,103): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(484,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(509,119): warning C4311: “类型强制转换”: 从“LPSECURITY_ATTRIBUTES”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(509,119): warning C4302: “类型强制转换”: 从“LPSECURITY_ATTRIBUTES”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(512,103): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(512,103): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(514,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(535,86): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(535,86): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(538,123): warning C4311: “类型强制转换”: 从“LPDWORD”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(538,123): warning C4302: “类型强制转换”: 从“LPDWORD”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(539,103): warning C4311: “类型强制转换”: 从“LPOVERLAPPED”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(539,103): warning C4302: “类型强制转换”: 从“LPOVERLAPPED”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(541,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(562,86): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(562,86): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(565,117): warning C4311: “类型强制转换”: 从“LPDWORD”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(565,117): warning C4302: “类型强制转换”: 从“LPDWORD”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(566,103): warning C4311: “类型强制转换”: 从“LPOVERLAPPED”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(566,103): warning C4302: “类型强制转换”: 从“LPOVERLAPPED”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(568,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(605,90): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(605,90): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(625,63): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(631,53): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(651,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(651,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(657,117): warning C4311: “类型强制转换”: 从“LPSECURITY_ATTRIBUTES”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(657,117): warning C4302: “类型强制转换”: 从“LPSECURITY_ATTRIBUTES”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(658,95): warning C4311: “类型强制转换”: 从“PHKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(658,95): warning C4302: “类型强制转换”: 从“PHKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(659,107): warning C4311: “类型强制转换”: 从“LPDWORD”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(659,107): warning C4302: “类型强制转换”: 从“LPDWORD”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(662,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(663,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(682,90): warning C4311: “类型强制转换”: 从“HKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(682,90): warning C4302: “类型强制转换”: 从“HKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(684,97): warning C4311: “类型强制转换”: 从“PHKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(684,97): warning C4302: “类型强制转换”: 从“PHKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(686,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(705,90): warning C4311: “类型强制转换”: 从“HKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(705,90): warning C4302: “类型强制转换”: 从“HKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(709,97): warning C4311: “类型强制转换”: 从“PHKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(709,97): warning C4302: “类型强制转换”: 从“PHKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(712,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(732,90): warning C4311: “类型强制转换”: 从“HKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(732,90): warning C4302: “类型强制转换”: 从“HKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(734,101): warning C4311: “类型强制转换”: 从“PHKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(734,101): warning C4302: “类型强制转换”: 从“PHKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(737,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(757,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(757,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(773,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(773,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(776,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(793,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(793,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(800,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(818,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(818,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(828,51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(833,54): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(855,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(855,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(860,54): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(878,88): warning C4311: “类型强制转换”: 从“HKEY”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(878,88): warning C4302: “类型强制转换”: 从“HKEY”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(888,54): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(910,90): warning C4311: “类型强制转换”: 从“HKEY”到“UINT”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(910,90): warning C4302: “类型强制转换”: 从“HKEY”到“UINT”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(919,51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(959,84): warning C4311: “类型强制转换”: 从“const char *”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(959,84): warning C4302: “类型强制转换”: 从“const char *”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(964,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(982,84): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(982,84): warning C4302: “类型强制转换”: 从“char *”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(987,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1003,34): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1023,34): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1044,84): warning C4311: “类型强制转换”: 从“void *”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1044,84): warning C4302: “类型强制转换”: 从“void *”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1047,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1065,84): warning C4311: “类型强制转换”: 从“void *”到“int”的指针截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1065,84): warning C4302: “类型强制转换”: 从“void *”到“int”截断
+E:\softwareSecurity\scalpel\src\scalpelDLL\scalpelDLL\dllmain.cpp(1068,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 E:\softwareSecurity\scalpel\src\scalpelDLL\x64\Release\scalpelDLL.lib 和对象 E:\softwareSecurity\scalpel\src\scalpelDLL\x64\Release\scalpelDLL.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 236 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  scalpelDLL.vcxproj -> E:\softwareSecurity\scalpel\src\scalpelDLL\x64\Release\scalpelDLL.dll
