@@ -34,7 +34,7 @@ A simple windows API hooker
 ## simple diagram  
                          [_Dll_]  
                             |  
-  [_GUI_]---->injector thread---->Process(detected procedure)  
-     | main thread                   | (shared memory)  
-     |                               |  
-   judger  <--------------------------     
+      [_GUI_]---->injector thread---->Process(detected procedure)  
+         | main thread                   | (shared memory)  
+         |                               |  
+      judger  <--------------------------     
