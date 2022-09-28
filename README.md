@@ -31,10 +31,10 @@ A simple windows API hooker
 #### [Qt primary](https://www.bilibili.com/video/BV1N34y1H7x7/?spm_id_from=333.337.search-card.all.click)
 #### [Qt trick1]([https://www.likecs.com/show-305686727.html](https://blog.csdn.net/weixin_42887343/article/details/122344366))
 #### [Qt trick2](https://www.likecs.com/show-305686727.html)
-## simple diagram
-                         [_Dll_]
-                            |
-  [_GUI_]---->injector thread---->Process(detected procedure)
-     | main thread                   | (shared memory)
-     |                               |
+## simple diagram  
+                         [_Dll_]  
+                            |  
+  [_GUI_]---->injector thread---->Process(detected procedure)  
+     | main thread                   | (shared memory)  
+     |                               |  
    judger  <--------------------------     
