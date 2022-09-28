@@ -25,9 +25,16 @@ A simple windows API hooker
 ### [scalpel](https://1.2.3.4) build the Tester
 #### scalpeTest.cpp         --> the test application
 ## reference
-[Qt in VS2022](https://www.zhihu.com/question/489217941/answer/2480213166)
-[IPC](https://blog.csdn.net/ypy_datou/article/details/122806141)
-[releaseSemaphore and WaitForSingleObject](https://learn.microsoft.com/zh-cn/windows/win32/api/synchapi/nf-synchapi-releasesemaphore?redirectedfrom=MSDN)
-[Qt primary](https://www.bilibili.com/video/BV1N34y1H7x7/?spm_id_from=333.337.search-card.all.click)
-[Qt trick1]([https://www.likecs.com/show-305686727.html](https://blog.csdn.net/weixin_42887343/article/details/122344366))
-[Qt trick2](https://www.likecs.com/show-305686727.html)
+#### [Qt in VS2022](https://www.zhihu.com/question/489217941/answer/2480213166)
+#### [IPC](https://blog.csdn.net/ypy_datou/article/details/122806141)
+#### [releaseSemaphore and WaitForSingleObject](https://learn.microsoft.com/zh-cn/windows/win32/api/synchapi/nf-synchapi-releasesemaphore?redirectedfrom=MSDN)
+#### [Qt primary](https://www.bilibili.com/video/BV1N34y1H7x7/?spm_id_from=333.337.search-card.all.click)
+#### [Qt trick1]([https://www.likecs.com/show-305686727.html](https://blog.csdn.net/weixin_42887343/article/details/122344366))
+#### [Qt trick2](https://www.likecs.com/show-305686727.html)
+## simple diagram
+                      dll--
+                          |
+[_GUI_]---->injector thread---->Process(detected procedure)
+   | main thread                   | 【shared memory】
+   |                               |
+ judger  <--------------------------                      
