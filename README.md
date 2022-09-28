@@ -1,6 +1,14 @@
 # scalpel
 A simple windows API hooker
 
+## simple diagram  
+                         [_Dll_]  
+                            |  
+      [_GUI_]---->injector thread---->Process(detected procedure)  
+         | main thread                   | (shared memory)  
+         |                               |  
+      judger  <--------------------------    
+
 ## framework
 ### GUI
 1. main thread to response and refresh GUI powered by [Qt 5.14.0](https://www.zhihu.com/question/489217941/answer/2480213166)
@@ -31,10 +39,3 @@ A simple windows API hooker
 #### [Qt primary Course](https://www.bilibili.com/video/BV1N34y1H7x7/?spm_id_from=333.337.search-card.all.click)
 #### [Qt trick1]([https://www.likecs.com/show-305686727.html](https://blog.csdn.net/weixin_42887343/article/details/122344366))
 #### [Qt trick2](https://www.likecs.com/show-305686727.html)
-## simple diagram  
-                         [_Dll_]  
-                            |  
-      [_GUI_]---->injector thread---->Process(detected procedure)  
-         | main thread                   | (shared memory)  
-         |                               |  
-      judger  <--------------------------     
